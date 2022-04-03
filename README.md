@@ -1,2 +1,2 @@
-# TamaGarden
+# TamaTable
 DIY Sisyphus table project
